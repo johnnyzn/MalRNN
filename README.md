@@ -1,2 +1,2 @@
 # MalRNN
-An RNN-based framework to evade opensource anti-virus which is also deep learning-based. E.g., MalConv and Non-Negative MalConv.
+An RNN-based framework to evade deep-learning based malware detectors in black-box mode. E.g., MalConv and Non-Negative MalConv.
